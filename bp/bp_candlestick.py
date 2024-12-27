@@ -36,7 +36,7 @@ plt.axhline(y=80, color='black', linestyle='-')
 # Set labels and title
 ax.set_xlabel('Date')
 ax.set_ylabel('Blood Pressure')
-plt.title('Blood Pressure Candlestick Chart')
+plt.title('Blood Pressure')
 
 # Display the plot
 plt.show()
